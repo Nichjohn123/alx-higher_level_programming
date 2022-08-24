@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # 10-add.py
 # Brennan D Baraban <375@holbertonschool.com>
 
