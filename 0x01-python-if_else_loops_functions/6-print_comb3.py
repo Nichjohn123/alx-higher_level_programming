@@ -3,6 +3,7 @@
 # Brennan D Baraban <375@holbertonschool.com>
 
 """Print all possible different combinations of the two digits in ascending order.
+
 The two digits must be different - 01 and 10 are considered identical.
 """
 for digit1 in range(0, 10):
